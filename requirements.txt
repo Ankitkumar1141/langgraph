@@ -1,0 +1,15 @@
+# LangChain / LangGraph
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# LLM Providers
+langchain-mistralai
+langchain-google-genai
+
+# Environment variables
+python-dotenv
+
+# Jupyter / Notebook
+ipykernel
