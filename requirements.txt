@@ -7,6 +7,7 @@ langgraph
 # LLM Providers
 langchain-mistralai
 langchain-google-genai
+langchain-openai
 
 # Environment variables
 python-dotenv
